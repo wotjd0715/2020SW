@@ -1,2 +1,2 @@
-# 2020SW
-2020SW 평가용 레포입니다.
+# Github_Summary
+Github Repository 정리용 입니다.
